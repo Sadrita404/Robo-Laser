@@ -100,12 +100,15 @@ If the console shows `Grbl 1.1h`, the chip is connected.
 
 | Component Name | Purpose | Qty | Total Price | Source Link | Distributor |
 | :--- | :--- | :---: | :---: | :---: | :---: |
-| **LASER TREE Engraver Module, 4W** | Laser cutting/engraving tool | 1 | $87.39 | [Amazon](https://www.amazon.in/LASER-TREE-20W-Adjustable-450nm/dp/B09BKJDPDJ/ref=sr_1_1?crid=378WU1L51IB08&dib=eyJ2IjoiMSJ9.M4OLZQVAy_fKkXT1LWwyOwBRIvub9MezUYKTwFhLs80ZLamk-sv01WQ5VcPVmc57QqO8DSQY5-w8CnZKvPb4g24Ny4YIY3cdrGnx8rRrHwjfIY10aasJMlexH4oywiSL1dYlLp0pqk7Y-VXTiaqhWxbGTSARL7sCZTDV3jU5LgVyC-cQqhKQDl03TdKwhZn0DhyyFPldIxHHgE1IM3d-l8S8gNTcpNzfWxlOJ4tcwS3UYWCDZcYHS5YwrHmurcdxzjbAj8JLt8BTkbQAqd2O-X6uajTPctQlVFbcDYtjJ9U.HwKY6iDdc_u4VX6vm2mXyvdT1kYpshCMba5zLfYn9WI&dib_tag=se&keywords=laser%2Bmodule&qid=1782015818&sprefix=Laser%2BModule%2Caps%2C598&sr=8-1&th=1) | amazon |
+| **1W Laser Engraver with adjustable Focus** | Laser cutting/engraving tool | 1 | $61.31 | [roboticsdna](https://roboticsdna.in/product/1w-laser-engraver-with-adjustable-focus/?src=google&kwd=&adgroup={adgroup}&device=c&campaign={campaign}&adgroup={adgroup}&keyword=&matchtype=&gad_source=1&gad_campaignid=22411741198&gbraid=0AAAAAC-xzeEHQaOHm_kbuCpTwq_3kptRY&gclid=CjwKCAjwuuPRBhAnEiwA2Ji8ev-95CF4b0_I65wOQ50L94g51sJtA9l6bnxksraq3EbTCGYeRxS31BoColYQAvD_BwE) | roboticsdna |
 | **M5 Hex Nut** | General assembly fastening | 20 | $0.17 | [OnlyScrews](https://onlyscrews.in/products/m5-hex-nut-mild-steel-grey-dia-5mm?currency=INR&country=IN&variant=50254623572281&stkn=6e84ebfba1b8&utm_source=google&utm_medium=cpc&utm_campaign=inderans_campaign_copy&gad_source=1&gad_campaignid=22930701107&gbraid=0AAAAA9sP2SRMlcD-Z6w_Ac7lrMRiHrOE9&gclid=CjwKCAjw9NjRBhATEiwA_p2J8XKFV51W0pwLAg9wZ5tcxzuN4MJaB3KOhltnwSGSkhATwiSfKsI8-BoC4fIQAvD_BwE) | onlyscrews |
 | **M5 x 10mm** | Extrusion/bracket fastening | 20 | $0.51 | [OnlyScrews](https://onlyscrews.in/products/m5-x-10mm-hex-allen-button-head-high-tensile10-9-black-oxide-screw-dia-5mm-length-10mm?currency=INR&country=IN&variant=50000663609657&stkn=6e84ebfba1b8&utm_source=google&utm_medium=cpc&utm_campaign=inderans_campaign_copy&gad_source=1&gad_campaignid=22930701107&gbraid=0AAAAA9sP2SRMlcD-Z6w_Ac7lrMRiHrOE9&gclid=CjwKCAjw9NjRBhATEiwA_p2J8daedFNuW-ZBlH9jloPm-Lv_WfGEfT840zK7bPX-lEQJjBWSi9l8LhoC9tsQAvD_BwE) | onlyscrews |
 | **M3 X 8mm Hex** | Motor/shield component mounting | 20 | $0.55 | [OnlyScrews](https://onlyscrews.in/products/m3-x-8mm-hex-allen-button-head-hight-tensile10-9-black-oxide-screw-dia-3mm-length-8mm?currency=INR&country=IN&variant=49994660217145&stkn=6e84ebfba1b8&utm_source=google&utm_medium=cpc&utm_campaign=inderans_campaign_copy&gad_source=1&gad_campaignid=22930701107&gbraid=0AAAAA9sP2SRMlcD-Z6w_Ac7lrMRiHrOE9&gclid=CjwKCAjw9NjRBhATEiwA_p2J8ZsNPlGBt6jLRl-JZ1BSu_mu_AslKdOORhMDUSLztgSyqRHB3XoJABoC9ZcQAvD_BwE) | onlyscrews |
 | **M5 X 35mm Hex** | Gantry/structural fastening | 20 | $0.76 | [OnlyScrews](https://onlyscrews.in/products/m5-x-35mm-hex-allen-button-head-high-tensile10-9-black-oxide-screw-dia-5mm-length-35mm?currency=INR&country=IN&variant=51471379202361&stkn=6e84ebfba1b8&utm_source=google&utm_medium=cpc&utm_campaign=inderans_campaign_copy&gad_source=1&gad_campaignid=22930701107&gbraid=0AAAAA9sP2SRMlcD-Z6w_Ac7lrMRiHrOE9&gclid=CjwKCAjw9NjRBhATEiwA_p2J8Qp1l36Ras0sQy98Yvg_fh_E_CYTRqM2LjnSrmfJVEuity6T8y3ukhoCS9sQAvD_BwE) | onlyscrews |
 | **A4988 Driver Stepper Motor Driver** | Stepper motor control interface | 4 | $2.54 | [FlyRobo](https://www.flyrobo.in/a4988-driver-stepper-motor-driver?tracking=ads&tracking=4a9a9a&gad_source=1&gad_campaignid=17426303996&gbraid=0AAAAAC6AkE8OP6QxygQu1YgTfEHvuoXvM&gclid=CjwKCAjw9NjRBhATEiwA_p2J8ScTH6S7N2wP4FKytFsUi9vNBD2d2CAncAOqp5txiIcRBEdQ-ktRcxoCTR0QAvD_BwE) | flyrobo |
+| **Allen Key** | 	To fix the Rails | 1 | $2.11 | [onlyscrews](https://onlyscrews.in/products/allen-key-mm-set-m1-5-to-m10-chrome-vanadium-steel?variant=49975496671545) | amazon |
+| **5 mm Tap set** | 		To make holes in the Extrusion Rod | 1 | $5.60 | [amazon](https://www.amazon.in/gp/product/B0D1R57NP7/ref=ox_sc_act_title_1?smid=A1ONML66JO9EQE&psc=1) | onlyscrews |
+| **T-Slot inside corner connector for 2020** | Rigid frame joint support | 1 | $2.82 | [Robu](https://robu.in/product/easymech-2020-series-corner-slot-connector/?) | Robu |
 | **Mech Endstop Switch** | Axis limit/homing switches | 8 | $3.99 | [Robu](https://robu.in/product/cnc-3d-printer-mech-endstop-switch/?gad_source=1&gad_campaignid=17427803012&gbraid=0AAAAADvLFWdPrAljERasEupxxQ-c5ODyD&gclid=CjwKCAjw9NjRBhATEiwA_p2J8SLSkMkZHy74gMLexfRQJBnWJkSaAeeu3UOZ6gsi7xmL5p16lEXBMhoCCPQQAvD_BwE) | robu |
 | **T-Slot inside corner connector for 2020** | Rigid frame joint support | 1 | $2.82 | [Robu](https://robu.in/product/easymech-2020-series-corner-slot-connector/?gad_source=1&gad_campaignid=17427803012&gbraid=0AAAAADvLFWdPrAljERasEupxxQ-c5ODyD&gclid=CjwKCAjw9NjRBhATEiwA_p2J8XW-fTa0nV1ypFiHTs-TXZnSegw8YiXpIqy1tqriI7vKKrFy8Yr2PxoCC0wQAvD_BwE) | robu |
 | **NEMA 17 Stepper Motor, Bipolar, 1.5A** | Axis motion actuation | 3 | $22.79 | [Robu](https://robu.in/product/nema17-pr42hs40-1204af-02-4-2kg-cm-stepper-motor-d-type-shaft/?gad_source=1&gad_campaignid=20381096599&gbraid=0AAAAADvLFWfhrgZve0DQQvDwygXEO2tsk&gclid=CjwKCAjw9NjRBhATEiwA_p2J8VUlspMYRNcnTDpOZkIBuRVf425s31KE2AbK-_Ti7KOK4nw-1LPKwhoC9xkQAvD_BwE) | robu |
@@ -133,23 +136,23 @@ If the console shows `Grbl 1.1h`, the chip is connected.
         <table width="100%" border="0" style="border-collapse: collapse; font-size: 14px; color: #57606a;">
           <tr>
             <td style="padding: 4px 0;">Component Subtotal:</td>
-            <td align="right" style="font-weight: 500; color: #24292f;">$211.37</td>
+            <td align="right" style="font-weight: 500; color: #24292f;">$193</td>
           </tr>
           <tr>
             <td style="padding: 4px 0;"> Shipping:</td>
-            <td align="right" style="font-weight: 500; color: #24292f;">$3.2</td>
+            <td align="right" style="font-weight: 500; color: #24292f;">$5.3</td>
           </tr>
           <tr>
             <td style="padding: 4px 0; padding-bottom: 8px;"> Tax:</td>
-            <td align="right" style="font-weight: 500; color: #24292f;">$2</td>
+            <td align="right" style="font-weight: 500; color: #24292f;">$1.1</td>
           </tr>
           <tr style="border-top: 1px dashed #d0d7de;">
             <td style="padding: 12px 0 0 0; font-weight: 600; color: #24292f; font-size: 15px;">Net Total Cost:</td>
-            <td align="right" style="padding: 12px 0 0 0; font-weight: bold; color: #2da44e; font-size: 18px;">$216.47</td>
+            <td align="right" style="padding: 12px 0 0 0; font-weight: bold; color: #2da44e; font-size: 18px;">$199.40</td>
           </tr>
           <tr>
             <td style="padding: 2px 0 0 0; font-size: 11px; color: #8c959f;">Projected Budget Allocation:</td>
-            <td align="right" style="padding: 2px 0 0 0; font-weight: 500; font-size: 12px; color: #8c959f;">$220</td>
+            <td align="right" style="padding: 2px 0 0 0; font-weight: 500; font-size: 12px; color: #8c959f;">$200</td>
           </tr>
         </table>
       </td>
