@@ -17,7 +17,7 @@
 
 
 ## Overview
-
+Is an hobby grade laser engraver that I have made the model in fusion 360 and after that, I have specifically selected the components that fits the budget and it is easily modified and it can be later upgraded into something related to CNC. And this is an open source project.
 
 ---
 
