@@ -19,6 +19,12 @@
 ## Overview
 It's an hobby grade laser engraver that I have made the model in fusion 360 and after that, I have specifically selected the components that fits the budget and it is easily modified and it can be later upgraded into something related to CNC. And this is an open source project.
 
+### Why I chose this project?
+I chose to build a CNC laser engraver because it combines both the hardware and the software and while making it I have learnt a lot about CAD design how to take dimension from data sheet and implemented in CAD also learned about how XY coordinate works in an CNC
+
+### How to use this project
+This can be used in various ways for me. I will use it to engrave in small MDF board for my projects, and I can also cut small things with it like if I want to make an keyboard, I can cut out the base plate for the keyboard with it with extreme accuracy and it will enhance the project quality. Also, it can be used in other way too.
+
 ---
 
 <div align="center">
