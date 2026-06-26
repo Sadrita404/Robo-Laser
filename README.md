@@ -53,7 +53,7 @@ This can be used in various ways for me. I will use it to engrave in small MDF b
   <img width="962" height="361" alt="44" src="https://github.com/user-attachments/assets/49d852d6-a136-48ff-9333-d32abe83b05f" style="border: 2px solid #ccc; border-radius: 4px; padding: 4px;" />
 </p>
 
-## Setup
+## Setup -  [setup.md](https://github.com/Sadrita404/Robo-Laser/blob/main/setup.md)
 
 Once the machine is assembled and wired, firmware needs to be installed so that it can move.
 
