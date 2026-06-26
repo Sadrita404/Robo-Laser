@@ -79,6 +79,16 @@ Connecting the Arduino to LaserGRBL (through which I will control the laser) is 
 
 If the console shows `Grbl 1.1h`, the chip is connected.
 
+##  Now for sending the G- Code to the Arduino I will use universal Gcode Sender 
+
+**https://github.com/winder/Universal-G-Code-Sender**
+
+- official website - https://winder.github.io/ugs_website/
+
+- It is an open source software, which is used to control CNC machines to send G code to them and to use it
+
+
+
 ---
 <div align="center">
   <h2> Final Look After Render </h2>
