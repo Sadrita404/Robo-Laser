@@ -50,6 +50,7 @@ This can be used in various ways for me. I will use it to engrave in small MDF b
 
 <p align="center">
   <img width="618" height="407" alt="44" src="https://github.com/user-attachments/assets/e32603db-b241-4240-99d3-a32c2ae15fff" style="border: 2px solid #ccc; border-radius: 4px; padding: 4px;" />
+  <img width="962" height="361" alt="44" src="https://github.com/user-attachments/assets/49d852d6-a136-48ff-9333-d32abe83b05f" style="border: 2px solid #ccc; border-radius: 4px; padding: 4px;" />
 </p>
 
 ## Setup
