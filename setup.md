@@ -1,5 +1,11 @@
 ## This are some of the thing that we need to keep in mind during building this 
 
+For more details follow this - https://lasergrbl.com/usage/arduino-connection/
+
+### I have use an unique way to setup software with extreme precision I went online searching for documentation for product that are available in online shops then I found this one which is listed on Amazon and they have good documentation and for building this kind of project, I think setting up the software with guided would be better
+ PDF DOC - https://m.media-amazon.com/images/I/C1yvvKE-JJL.pdf
+
+
 #### Flashing GRBL onto the Arduino
 
 1. Download the Arduino IDE from their site, a program which allows to flash the Arduino with firmware.
