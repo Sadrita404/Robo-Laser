@@ -178,5 +178,6 @@ If the console shows `Grbl 1.1h`, the chip is connected.
 </div>
 
 **Project Under Hack Club**
+I have provided the links to the parts that I will self - sourced , So that if a reader wanted to recreate this project they would be able to find all the parts..
 
 
