@@ -177,6 +177,9 @@ If the console shows `Grbl 1.1h`, the chip is connected.
   </table>
 </div>
 
+## In the submit review section I told about that it would be great if I get an $222 grant but after a bit of reserch I found out that the 1w laser is safe for indoor use (that I have included in the BOM)
+## So Please give me $200 grant which is the exact ammount needed to complete this project , As I have submit it earlier so I can't change that part So I am writting it here that I am good to go with the 1w laser module and please approve this project 
+
 I have provided the links to the parts that I will self - sourced , So that if a reader wanted to recreate this project they would be able to find all the parts..
 
 
