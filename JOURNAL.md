@@ -7,7 +7,7 @@ Total Hrs | 21.5 |
 
 
 
-# 6/22/2026 9 PM - Image Render
+# Image Render
 
 _Time spent: 0.3333333333333333h_
 
@@ -37,7 +37,7 @@ Image Render in Fusion 360
 
 
 
-# 6/22/2026 9 PM - Firmware For Laser Engraver
+# Firmware For Laser Engraver
 
 _Time spent: 0.6666666666666666h_
 
@@ -62,7 +62,7 @@ After that we need to connect  the Arduino to LaserGRBL(through which I will con
 [DOC PDF ](https://lasergrbl.com/wp-content/uploads/2020/05/Grbl-Configuration-ENG.pdf)
 
 
-# 6/22/2026 9 PM - Now wiring
+# Now wiring
 
 _Time spent: 1.166666666666667h_
 
@@ -93,7 +93,7 @@ Pad Selection
 
 
 
-# 6/22/2026 9 PM - CAD Assembly Done..
+#  CAD Assembly Done..
 
 _Time spent: 2h_
 
@@ -114,7 +114,7 @@ Finally after lot of Assembly the final model is ready now I need to export all 
 
 
 
-# 6/22/2026 8 PM - Adding the End Stop Switch
+# Adding the End Stop Switch
 
 _Time spent: 0.6666666666666666h_
 
@@ -127,7 +127,7 @@ end stop added to the frame of both sides
 
 
 
-# 6/22/2026 8 PM - Laser Module Added
+#  Laser Module Added
 
 _Time spent: 0.3333333333333333h_
 
@@ -136,7 +136,7 @@ After completing with the overall was now I have added the leisure module to the
 ![Screenshot 2026-06-22 at 11.52.30 PM](https://stasis.hackclub-assets.com/images/1782158897412-f0nuud.png)
 
 
-# 6/22/2026 8 PM - Added the height adjusting knob
+# Added the height adjusting knob
 
 _Time spent: 2h_
 
@@ -153,7 +153,7 @@ Added the height adjusting knob this note can be adjusted based on which materia
 
 
 
-# 6/22/2026 6 PM - Laser Module Holding Plate
+#  Laser Module Holding Plate
 
 _Time spent: 2.666666666666667h_
 
@@ -171,7 +171,7 @@ here I have added the V - Slot wheels for for the smooth movement of the plate
 ![Screenshot 2026-06-22 at 11.50.49 PM](https://stasis.hackclub-assets.com/images/1782153268824-181q8o.png)
 
 
-# 6/22/2026 6 PM - Added the Control Unit to the frame and Case
+#  Added the Control Unit to the frame and Case
 
 _Time spent: 1.166666666666667h_
 
@@ -191,7 +191,7 @@ Added the Control Unit  in an box that I design and I took the model of the Ardu
 ![Screenshot 2026-06-22 at 10.58.16 PM](https://stasis.hackclub-assets.com/images/1782149564818-3k0rpd.png)
 
 
-# 6/22/2026 5 PM - Added the Top Arm
+#  Added the Top Arm
 
 _Time spent: 0.6666666666666666h_
 
@@ -209,7 +209,7 @@ final look
 
 
 
-# 6/22/2026 4 PM - Design the stepper motor holding plate
+#  Design the stepper motor holding plate
 
 _Time spent: 4.333333333333333h_
 
@@ -271,7 +271,7 @@ added in the both side of the frame .
 at this point the frame looks to be how I draw it and it is turing into the real one ...
 
 
-# 6/22/2026 3 PM - Started Designing the frame
+#  Started Designing the frame
 
 _Time spent: 4h_
 
@@ -313,7 +313,7 @@ Added it in all four leg
 
 
 
-# 6/21/2026 3 AM - Done Sketching the Robo Laser
+#  Done Sketching the Robo Laser
 
 _Time spent: 1.5h_
 
