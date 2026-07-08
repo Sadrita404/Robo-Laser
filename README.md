@@ -117,7 +117,7 @@ If the console shows `Grbl 1.1h`, the chip is connected.
 
 | Component Name | Purpose | Qty | Total Price | Source Link | Distributor |
 | :--- | :--- | :---: | :---: | :---: | :---: |
-| **1W Laser Engraver with adjustable Focus** | Laser cutting/engraving tool | 1 | $61.31 | [roboticsdna](https://roboticsdna.in/product/1w-laser-engraver-with-adjustable-focus/?src=google&kwd=&adgroup={adgroup}&device=c&campaign={campaign}&adgroup={adgroup}&keyword=&matchtype=&gad_source=1&gad_campaignid=22411741198&gbraid=0AAAAAC-xzeEHQaOHm_kbuCpTwq_3kptRY&gclid=CjwKCAjwuuPRBhAnEiwA2Ji8ev-95CF4b0_I65wOQ50L94g51sJtA9l6bnxksraq3EbTCGYeRxS31BoColYQAvD_BwE) | roboticsdna |
+| **4W Laser Engraver with adjustable Focus** | Laser cutting/engraving tool | 1 | $90 | [Amazon](https://www.amazon.in/LASER-TREE-20W-Adjustable-450nm/dp/B09BKJDPDJ/ref=asc_df_B09BKJDPDJ?mcid=b94e30e433d33609930a239af455c954&tag=googleshopdes-21&linkCode=df0&hvadid=709856082207&hvpos=&hvnetw=g&hvrand=1997055721150984434&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9301294&hvtargid=pla-1586499133896&psc=1&hvocijid=1997055721150984434-B09BKJDPDJ-&hvexpln=0&gad_source=1) | Amazon |
 | **M5 Hex Nut** | General assembly fastening | 20 | $0.17 | [OnlyScrews](https://onlyscrews.in/products/m5-hex-nut-mild-steel-grey-dia-5mm?currency=INR&country=IN&variant=50254623572281&stkn=6e84ebfba1b8&utm_source=google&utm_medium=cpc&utm_campaign=inderans_campaign_copy&gad_source=1&gad_campaignid=22930701107&gbraid=0AAAAA9sP2SRMlcD-Z6w_Ac7lrMRiHrOE9&gclid=CjwKCAjw9NjRBhATEiwA_p2J8XKFV51W0pwLAg9wZ5tcxzuN4MJaB3KOhltnwSGSkhATwiSfKsI8-BoC4fIQAvD_BwE) | onlyscrews |
 | **M5 x 10mm** | Extrusion/bracket fastening | 20 | $0.51 | [OnlyScrews](https://onlyscrews.in/products/m5-x-10mm-hex-allen-button-head-high-tensile10-9-black-oxide-screw-dia-5mm-length-10mm?currency=INR&country=IN&variant=50000663609657&stkn=6e84ebfba1b8&utm_source=google&utm_medium=cpc&utm_campaign=inderans_campaign_copy&gad_source=1&gad_campaignid=22930701107&gbraid=0AAAAA9sP2SRMlcD-Z6w_Ac7lrMRiHrOE9&gclid=CjwKCAjw9NjRBhATEiwA_p2J8daedFNuW-ZBlH9jloPm-Lv_WfGEfT840zK7bPX-lEQJjBWSi9l8LhoC9tsQAvD_BwE) | onlyscrews |
 | **M3 X 8mm Hex** | Motor/shield component mounting | 20 | $0.55 | [OnlyScrews](https://onlyscrews.in/products/m3-x-8mm-hex-allen-button-head-hight-tensile10-9-black-oxide-screw-dia-3mm-length-8mm?currency=INR&country=IN&variant=49994660217145&stkn=6e84ebfba1b8&utm_source=google&utm_medium=cpc&utm_campaign=inderans_campaign_copy&gad_source=1&gad_campaignid=22930701107&gbraid=0AAAAA9sP2SRMlcD-Z6w_Ac7lrMRiHrOE9&gclid=CjwKCAjw9NjRBhATEiwA_p2J8ZsNPlGBt6jLRl-JZ1BSu_mu_AslKdOORhMDUSLztgSyqRHB3XoJABoC9ZcQAvD_BwE) | onlyscrews |
@@ -141,6 +141,9 @@ If the console shows `Grbl 1.1h`, the chip is connected.
 | **M4 Profile Nuts** | Frame assembly hardware | 20 | $1.84 | [OnlyScrews](https://onlyscrews.in/products/m4-profile-nuts-mild-steel-with-nickel-plating-for-2020-series-t-nut-hammer-nut) | onlyscrews |
 | **M3 Profile Nuts** | Frame assembly hardware | 20 | $1.80 | [OnlyScrews](https://onlyscrews.in/products/m3-profile-nuts-mild-steel-with-nickel-plating-for-2020-series-t-nut-hammer-nut) | onlyscrews |
 | **Cable with Connector for NEMA17 Motor** | Motor connection | 4 | $1.90 | [Robu](https://robu.in/product/pure-copper-1000-mm-cable-with-connector-for-nema17-stepper-motor/?gad_source=1&gad_campaignid=20381096599&gbraid=0AAAAADvLFWdRG0rCC-w9yrGhKwdtsxu3w&gclid=CjwKCAjwuuPRBhAnEiwA2Ji8euXbJ3ClnqKgJD--M4510dq9MZgBy_y_kccCa_0XEcVQSvi95V8pAxoCj5UQAvD_BwE) | robu |
+| **Honeycomb Working Bed** | For the laser engraving area | 1 | $35 | [Robu](https://robu.in/product/two-trees-honeycomb-working-400x400-panel-set/?gad_source=1&gad_campaignid=17427803012&gbraid=0AAAAADvLFWdvvPCnj4K00DJ0D1UDI08XO&gclid=CjwKCAjw6rfSBhAqEiwA_yocplPWfX8VSXpbPzkbCKRybs0KtSHy3hDnEwEkWHWr6s8g-QYAe9cqjRoCDN0QAvD_BwE) | robu |
+| **Power Supply** | to power up the circuit | 1 | $22 | [Robu](https://robu.in/product/mean-well-lrs-200-24-24v-8-8a-211-2w-smps/) | robu |
+
 
 
 <div align="center">
@@ -165,11 +168,11 @@ If the console shows `Grbl 1.1h`, the chip is connected.
           </tr>
           <tr style="border-top: 1px dashed #d0d7de;">
             <td style="padding: 12px 0 0 0; font-weight: 600; color: #24292f; font-size: 15px;">Net Total Cost:</td>
-            <td align="right" style="padding: 12px 0 0 0; font-weight: bold; color: #2da44e; font-size: 18px;">$199.40</td>
+            <td align="right" style="padding: 12px 0 0 0; font-weight: bold; color: #2da44e; font-size: 18px;">$285</td>
           </tr>
           <tr>
             <td style="padding: 2px 0 0 0; font-size: 11px; color: #8c959f;">Projected Budget Allocation:</td>
-            <td align="right" style="padding: 2px 0 0 0; font-weight: 500; font-size: 12px; color: #8c959f;">$200</td>
+            <td align="right" style="padding: 2px 0 0 0; font-weight: 500; font-size: 12px; color: #8c959f;">$290</td>
           </tr>
         </table>
       </td>
