@@ -133,7 +133,8 @@ If the console shows `Grbl 1.1h`, the chip is connected.
 | **CNC Shield V3** | Stepper motor control interface | 1 | $1.48 | [FlyRobo](https://www.flyrobo.in/cnc-shield-v3-for-engraving-machine-3d-printer-a4988-drv8825-driver-expansion-board?tracking=ads&tracking=4a9a9a&gad_source=1&gad_campaignid=17426303996&gbraid=0AAAAAC6AkE8OP6QxygQu1YgTfEHvuoXvM&gclid=CjwKCAjw9NjRBhATEiwA_p2J8e9AHPcF3RQdr6UOsqpr_OcnySgFo0Gja_ifPGLrct4SHcUx0DGCWBoCTQ0QAvD_BwE) | flyrobo |
 | **V Slot gantry wheel(625zz)** | Gantry linear movement | 14 | $8.46 | [FlyRobo](https://www.flyrobo.in/openbuilds-plastic-wheel-idler-pulley?tracking=ads&tracking=4a9a9a&gad_source=1&gad_campaignid=17426303996&gbraid=0AAAAAC6AkE8OP6QxygQu1YgTfEHvuoXvM&gclid=CjwKCAjw9NjRBhATEiwA_p2J8QGTEEEIZ1dfv8KfgR0Ng49gtRanAmdukoyFnAkNJ0cECkEtEJm02RoCes4QAvD_BwE) | flyrobo |
 | **GT2 Timing Belt, 5M, 6mm width** | Linear motion drive | 1 | $4.66 | [Robu](https://robu.in/product/5-meter-x-gt2-open-timing-belt-6mm-width/?gad_source=1&gad_campaignid=17427803012&gbraid=0AAAAADvLFWdPrAljERasEupxxQ-c5ODyD&gclid=CjwKCAjw9NjRBhATEiwA_p2J8W8TiT7rVNSo_hMI0i0-3jGSWh_hCjVlUf_nrh0P6dQweNCfycJ0HhoCdFYQAvD_BwE) | robu |
-| **2040 Aluminum Extrusion, 1000mm V Slot** | Main structural frame | 5 | $62.55 | [Robu](https://robu.in/product/easymech-1000-mm-20x40-4-v-slot-aluminium-extrusion-profile-black/) | robu |
+| **2040 Aluminum Extrusion, 1000mm V Slot** | Main structural frame | 2 | $19.6 | [Robu](https://robu.in/product/easymech-20x40-6t-slot-aluminium-extrusion-profile-1000-mm/) | robu |
+| **2040 Aluminum Extrusion, 500mm V Slot** | Main structural frame | 3 | $17 | [Robu](https://robu.in/product/easymech-20x40-6t-slot-aluminium-extrusion-profile-500mm/) | robu |
 | **20 Tooth 5mm Bore GT2 Timing Pulley** | Belt drive transmission | 6 | $2.09 | [FlyRobo](https://www.flyrobo.in/20-teeth-5mm-bore-gt2-black-timing-pulley-for-6mm-belt?tracking=ads&tracking=4a9a9a&gad_source=1&gad_campaignid=17426303996&gbraid=0AAAAAC6AkE8OP6QxygQu1YgTfEHvuoXvM&gclid=CjwKCAjw9NjRBhATEiwA_p2J8SdUwhJo0U_wVIlUSlG2aQ3nyiUvAJBt9r7wMYWKXMdBElK04fNV0hoCOnQQAvD_BwE) | flyrobo |
 | **M5 X 100mm Hex** | Structural fastening | 1 | $0.34 | [link](https://3fparts.com/shop/m5-100mm-hex-bolt-din-933-stainless-steel-304-a2-70?srsltid=AfmBOopubs1oxz9r71rdxJmCbhOA09e2XBk-N5C1WeqYFXRF0YHUMZgXnbU) | Self - Sourced |
 | **M4 X 100mm Hex** | Structural fastening | 2 | $0.89 | [OnlyScrews](https://onlyscrews.in/products/m4-x-100mm-hex-allen-socket-head-ss-304-screw-dia-4mm-length-100mm?currency=INR&country=IN&variant=50100898300217&stkn=6e84ebfba1b8&utm_campaign=sales_shopping_pfmax&gad_source=1&gad_campaignid=23146719598&gbraid=0AAAAA9sP2SSl4HgRihEwJBpJCj_UuavSl&gclid=CjwKCAjw9NjRBhATEiwA_p2J8U33y_23aXj6qecYVRSgVZABI_5vMMizr8iKm5fYs_kAK3pIwPY_uBoC0hUQAvD_BwE) | onlyscrews |
@@ -156,11 +157,11 @@ If the console shows `Grbl 1.1h`, the chip is connected.
         <table width="100%" border="0" style="border-collapse: collapse; font-size: 14px; color: #57606a;">
           <tr>
             <td style="padding: 4px 0;">Component Subtotal:</td>
-            <td align="right" style="font-weight: 500; color: #24292f;">$278.6</td>
+            <td align="right" style="font-weight: 500; color: #24292f;">$242</td>
           </tr>
           <tr>
             <td style="padding: 4px 0;"> Shipping:</td>
-            <td align="right" style="font-weight: 500; color: #24292f;">$5.3</td>
+            <td align="right" style="font-weight: 500; color: #24292f;">$6.3</td>
           </tr>
           <tr>
             <td style="padding: 4px 0; padding-bottom: 8px;"> Tax:</td>
@@ -168,11 +169,11 @@ If the console shows `Grbl 1.1h`, the chip is connected.
           </tr>
           <tr style="border-top: 1px dashed #d0d7de;">
             <td style="padding: 12px 0 0 0; font-weight: 600; color: #24292f; font-size: 15px;">Net Total Cost:</td>
-            <td align="right" style="padding: 12px 0 0 0; font-weight: bold; color: #2da44e; font-size: 18px;">$285</td>
+            <td align="right" style="padding: 12px 0 0 0; font-weight: bold; color: #2da44e; font-size: 18px;">$249.4</td>
           </tr>
           <tr>
             <td style="padding: 2px 0 0 0; font-size: 11px; color: #8c959f;">Projected Budget Allocation:</td>
-            <td align="right" style="padding: 2px 0 0 0; font-weight: 500; font-size: 12px; color: #8c959f;">$290</td>
+            <td align="right" style="padding: 2px 0 0 0; font-weight: 500; font-size: 12px; color: #8c959f;">$250</td>
           </tr>
         </table>
       </td>
