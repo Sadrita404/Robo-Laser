@@ -65,17 +65,14 @@ GRBL is the firmware which is going to run on the Arduino and interpret the G-co
    > **Note:** Before we proceed, we need to modify the `config.h` file inside grbl to account for the lack of the Z axis.
 3. **Open Arduino IDE and import the grbl file** via: `Sketch` -> `Include Library` -> `Add .ZIP Library...` *(it says .ZIP but the uncompressed file should be chosen)*.
 4. **Navigate to the grblUpload sketch** via: `File` -> `Examples` -> `grbl` -> `grblUpload`.
-5. **Connect the Arduino to the PC via USB** *(make sure the correct board and port is selected)*.
 6. **Flash the sketch** through `Sketch` -> `Upload`.
 
 ---
 
 ### Connecting the Arduino to LaserGRBL
-Connecting the Arduino to LaserGRBL (through which I will control the laser) is fairly simple.
 
 1. **Download LaserGRBL** from their website: https://lasergrbl.com and install it.
-2. **Connect the Arduino to the computer via USB**.
-3. **Choose the correct port** and select **"115200" baud rate**, then click **Connect**. 
+2. **Choose the correct port** and select **"115200" baud rate**, then click **Connect**. 
 
 If the console shows `Grbl 1.1h`, the chip is connected.
 
