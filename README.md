@@ -156,7 +156,7 @@ If the console shows `Grbl 1.1h`, the chip is connected.
         <table width="100%" border="0" style="border-collapse: collapse; font-size: 14px; color: #57606a;">
           <tr>
             <td style="padding: 4px 0;">Component Subtotal:</td>
-            <td align="right" style="font-weight: 500; color: #24292f;">$193</td>
+            <td align="right" style="font-weight: 500; color: #24292f;">$278.6</td>
           </tr>
           <tr>
             <td style="padding: 4px 0;"> Shipping:</td>
